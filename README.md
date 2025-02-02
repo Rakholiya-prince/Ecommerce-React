@@ -1,6 +1,6 @@
-About Project
+<h1>E-Commerce Frontend Application</h1>
 
-This project is user-friendly e-commerce platform built using HTML, CSS, JavaScript, and React.js. It features interactive seamless navigation, Categories(Men,Women,Kid) , Add to Cart , Total Cart for a great user experience. Designed with clean and maintainable code, the interface is optimized for modern web browsers. The goal was to create an attractive, functional, and scalable front-end for an online store.
+This project is a user-friendly e-commerce platform built using **HTML**, **CSS**, **JavaScript**, and **React.js**. It offers seamless navigation, categorized sections for **Men, Women, and Kids**, an **Add to Cart** feature, and a **Total Cart** display for an enhanced user experience. Designed with clean and maintainable code, the interface is optimized for modern web browsers. While it is currently **not responsive**, future updates will focus on making it fully adaptable to different screen sizes. The goal is to deliver an attractive, functional, and scalable front-end for an online store. 
 
 # Getting Started with Create React App
 
