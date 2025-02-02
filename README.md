@@ -1,3 +1,7 @@
+About Project
+
+This project is user-friendly e-commerce platform built using HTML, CSS, JavaScript, and React.js. It features interactive seamless navigation, Categories(Men,Women,Kid) , Add to Cart , Total Cart for a great user experience. Designed with clean and maintainable code, the interface is optimized for modern web browsers. The goal was to create an attractive, functional, and scalable front-end for an online store.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
